@@ -44,17 +44,17 @@ spring:
   banner:
     location: coderslab.txt
 
-#security:
-#  oauth2:
-#    client:
-#      clientId: 91259616670-48kalfj1le3g6fb566j61vjb2e586sj8.apps.googleusercontent.com
-#      clientSecret: w9S9WFR2KZpIVadYFXSpjPEo
-#      accessTokenUri: https://www.googleapis.com/oauth2/v3/token
-#      userAuthorizationUri: https://accounts.google.com/o/oauth2/auth
-#      tokenName: oauth_token
-#      authenticationScheme: query
-#      clientAuthenticationScheme: form
-#      scope: profile email
-#    resource: 
-#      userInfoUri: https://www.googleapis.com/userinfo/v2/me
-#      preferTokenInfo: false
+security:
+  oauth2: 
+    client:
+      clientId: 511331875392-0fv0u7j15gt66vpc403mlniihv6gpesj.apps.googleusercontent.com
+      clientSecret: 0YsuNWZAUmxKvKuFNanua1bA
+      accessTokenUri: https://www.googleapis.com/oauth2/v3/token
+      userAuthorizationUri: https://accounts.google.com/o/oauth2/auth
+      tokenName: oauth_token
+      authenticationScheme: query
+      clientAuthenticationScheme: form
+      scope: profile email
+    resource: 
+      userInfoUri: https://www.googleapis.com/userinfo/v2/me
+      preferTokenInfo: false

@@ -1,0 +1,59 @@
+{
+	"authorities": [
+		{
+			"authority": "ROLE_USER"
+		}
+	],
+	"details": {
+		"remoteAddress": "0:0:0:0:0:0:0:1",
+		"sessionId": "36614B8041432E4EB1E8FD6445828B67",
+		"tokenValue": "ya29.Glv5Bj_6ROJrhsFtlt3Y1vlOHIrqwF7XN4HmW2lP6Y4WA5pjD7oFTmz1z_tNSNIn1LAwGKTVRl_X12g_5Dli2QR_8XadW9NqHsHOajLcEFPUzNTDKk5uLk3tWZyV",
+		"tokenType": "Bearer",
+		"decodedDetails": null
+	},
+	"authenticated": true,
+	"userAuthentication": {
+		"authorities": [
+			{
+				"authority": "ROLE_USER"
+			}
+		],
+		"details": {
+			"id": "109580118742580491358",
+			"email": "cyclingbd007@gmail.com",
+			"verified_email": true,
+			"name": "Coders Lab BD",
+			"given_name": "Coders",
+			"family_name": "Lab BD",
+			"link": "https://plus.google.com/109580118742580491358",
+			"picture": "https://lh3.googleusercontent.com/-4O44NR56p8I/AAAAAAAAAAI/AAAAAAAAB1A/F8Ud1PLpxmc/photo.jpg",
+			"locale": "en"
+		},
+		"authenticated": true,
+		"principal": "109580118742580491358",
+		"credentials": "N/A",
+		"name": "109580118742580491358"
+	},
+	"principal": "109580118742580491358",
+	"clientOnly": false,
+	"credentials": "",
+	"oauth2Request": {
+		"clientId": "511331875392-0fv0u7j15gt66vpc403mlniihv6gpesj.apps.googleusercontent.com",
+		"scope": [],
+		"requestParameters": {
+			
+		},
+		"resourceIds": [],
+		"authorities": [],
+		"approved": true,
+		"refresh": false,
+		"redirectUri": null,
+		"responseTypes": [],
+		"extensions": {
+			
+		},
+		"grantType": null,
+		"refreshTokenRequest": null
+	},
+	"name": "109580118742580491358"
+}
